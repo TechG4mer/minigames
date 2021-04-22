@@ -1,0 +1,1 @@
+<p>MiniGames Info</p>
