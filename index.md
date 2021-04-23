@@ -10,6 +10,17 @@
 
 <p style="text-decoration:underline;">Parkour</p>
 <p>ㅤ</p>
+<p>The Beggining Of The Map
+<img src="Minigames Parkour1.PNG" alt="Minigames">
+<img src="MiniGames Parkour2.PNG" alt="Minigames">
+<img src="Minigames Parkour3.PNG" alt="Minigames">
+<img src="Minigames Parkour4.PNG" alt="Minigames">
+<p>ㅤ</p>
+<p>The Dungeon...</p>
+<img src="Minigames Parkour Dungeon1.PNG" alt="Minigames">
+
+
+
 <p style="text-decoration:underline;">Glide</p>
 <p>ㅤ</p>
 <p style="text-decoration:underline;">Tumble</p>
