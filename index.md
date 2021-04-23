@@ -16,8 +16,9 @@
 <img src="Minigames Parkour3.PNG" alt="Minigames">
 <img src="Minigames Parkour4.PNG" alt="Minigames">
 <p>ㅤ</p>
-<p>The Dungeon...</p>
+<p>The Dungeons First Level</p>
 <img src="Minigames Parkour Dungeon1.PNG" alt="Minigames">
+<p>Dungeon Hub</p>
 <img src="Minigames Parkour Dungeon2.PNG" alt="Minigames">
 
 <p>ㅤ</p>
