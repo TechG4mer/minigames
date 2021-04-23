@@ -1,5 +1,5 @@
 <h1 style="text-decoration:underline;">MiniGames Hub</h1>
-<img src="minigames thumbnail.png" alt="Minigames">
+<img src="Minigames.png" alt="Minigames">
 
 <p>ㅤ</p>
 
