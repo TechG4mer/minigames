@@ -18,8 +18,9 @@
 <p>ㅤ</p>
 <p>The Dungeon...</p>
 <img src="Minigames Parkour Dungeon1.PNG" alt="Minigames">
+<img src="Minigames Parkour Dungeon2.PNG" alt="Minigames">
 
-
+<p>ㅤ</p>
 
 <p style="text-decoration:underline;">Glide</p>
 <p>ㅤ</p>
