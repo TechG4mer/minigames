@@ -56,5 +56,5 @@
 <p>ㅤ</p>
 <p style="text-decoration:underline;">Coming Soon!</p>
 
-<p>ㅤㅤ<a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">Youtube</a>ㅤㅤㅤ<a href="https://twitch.tv/tech_g4mer">Twitch</a>ㅤㅤㅤ<a href="https://github.com/TechG4mer">Github</a>ㅤㅤㅤ<a href="https://twitter.com/tech_g4mer">Twitter</a>ㅤㅤ<img src="aliencat.png" alt="Test">ㅤㅤ<a href="https://www.facebook.com/Tech-Gang-102858845215452">Facebook</a>ㅤㅤㅤ<a href="https://www.reddit.com/user/TechGamer_YT">Reddit</a>ㅤㅤㅤ<a href="https://discord.gg/bVH2kUEfnv">Discord Main</a>ㅤㅤㅤ<a href="https://discord.gg/97C2v9rNVt">Discord Support</a>ㅤㅤㅤ</p>
+<p>ㅤㅤ<a href="https://www.youtube.com/channel/UCIaUjRKg92Df9VeBxrXjv5A">Youtube</a>ㅤㅤㅤ<a href="https://twitch.tv/tech_g4mer">Twitch</a>ㅤㅤㅤ<a href="https://github.com/TechG4mer">Github</a>ㅤㅤㅤ<a href="https://twitter.com/tech_g4mer">Twitter</a>ㅤㅤ<img src="favicon-32x32.png" alt="Test">ㅤㅤ<a href="https://www.facebook.com/Tech-Gang-102858845215452">Facebook</a>ㅤㅤㅤ<a href="https://www.reddit.com/user/TechGamer_YT">Reddit</a>ㅤㅤㅤ<a href="https://discord.gg/bVH2kUEfnv">Discord Main</a>ㅤㅤㅤ<a href="https://discord.gg/97C2v9rNVt">Discord Support</a>ㅤㅤㅤ</p>
 
