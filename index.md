@@ -1,6 +1,13 @@
-<h1 style="text-decoration:underline;">MiniGames Hub</h1>
+<h1 style="text-decoration:underline;">MiniGames</h1>
+<p>Welcome! Here, you Can View Screenshots Of The Map And A bunch Of Info About It</p>
+
+<p>heres Some Screenshots Of The Minigames Map</p>
+
 <img src="Minigames.PNG" alt="Minigames">
 <img src="Minigames2.PNG" alt="Minigames">
+<p>This Project Has Been Started At Around The Start Of 2020 (1.14), and yes it was made in bedrock so it can only be played on there.
+well... Unless You Use Something To Convert It Into A Java World.</p>
+
 <p>ㅤ</p>
 
 <h1 style="text-decoration:underline;">Minigames</h1>
