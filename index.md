@@ -59,32 +59,32 @@ well... Unless You Use Something To Convert It Into A Java World.</p>
 
 <p style="text-decoration:underline;">Quests</p>
 <p>ㅤ</p>
-Quests Can Give You Rewards For Doing Stuff In The Minigames Map.
-NPCs and Villagers Usally Hold Quests
+<p>Quests Can Give You Rewards For Doing Stuff In The Minigames Map.</p>
+<p>NPCs and Villagers Usally Hold Quests</p>
 <p>They Might Require You To;</p>
-Complete A Level
-Get A Kill In Pvp Or PvE
-Win A Game
-Comnplete Something With A Limited Amount Of Time
+<p>Complete A Level</p>
+<p>Win A Game</p>
+<p>Get A Kill In Pvp Or PvE</p>
+<p>Comnplete Something With A Limited Amount Of Time</p>
 <p>ㅤ</p>
 <p>Theres Also Rewards Like;</p>
-In Game Currency
-Kits
-Maps
-Even More Quests 
+<p>In Game Currency</p>
+<p>Kits</p>
+<p>Maps</p>
+<p>Even More Quests </p>
 
 <p>ㅤ</p>
 
 <p style="text-decoration:underline;">Currency</p>
 <p>ㅤ</p>
-The Currency is Used To Buy Lots Of Things In Game, 
-The Currency Is Called 'Gamer Token' .
+<p>The Currency is Used To Buy Lots Of Things In Game, </p>
+<p>The Currency Is Called 'Gamer Token' .</p>
 <p>You Can Use It To Buy Stuff Like;</p>
-More Maps
-Kits
-Unlock More Kits
-Unlock More Gamemodes
-+More
+<p>More Maps</p>
+<p>Kits</p>
+<p>Unlock More Kits</p>
+<p>Unlock More Gamemodes</p>
+<p>+More</p>
 
 <p>ㅤ</p>
 
