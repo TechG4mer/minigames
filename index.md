@@ -63,11 +63,16 @@ well... Unless You Use Something To Convert It Into A Java World.</p>
 <p>NPCs and Villagers Usally Hold Quests</p>
 <p>They Might Require You To;</p>
 <p>Complete A Level</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>Get A Kill In Pvp Or PvE</p>
+<p>Win A Game</p>
+<p>Comnplete Something With A Limited Amount Of Time</p>
+<p>ㅤ</p>
+Theres Also Rewards Like
+<p>In Game Currency</p>
+<p>Kits</p>
+<p>Levels</p>
+<p>Even More Quests</p>
+
 <p>ㅤ</p>
 
 <p style="text-decoration:underline;">Currency</p>
