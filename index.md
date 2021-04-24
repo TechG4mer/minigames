@@ -57,8 +57,19 @@ well... Unless You Use Something To Convert It Into A Java World.</p>
 <p>ㅤ</p>
 <p style="text-decoration:underline;">Quests</p>
 <p>ㅤ</p>
+
 <p style="text-decoration:underline;">Currency</p>
 <p>ㅤ</p>
+<p>The Currency is Used To Buy Lots Of Things In Game, 
+The Currency Is Called 'Gamer Token' .
+You Can Use It To Buy Stuff Like;</p>
+<p>More Maps</p>
+<p>Kits</p>
+<p>Unlock More Kits</p>
+<p>Unlock More Gamemodes</p>
+<p>+More</p>
+<p>ㅤ</p>
+
 <p style="text-decoration:underline;">Unlocking Maps</p>
 <p>ㅤ</p>
 <p style="text-decoration:underline;">Coming Soon!</p>
