@@ -53,16 +53,28 @@ well... Unless You Use Something To Convert It Into A Java World.</p>
 <p>ㅤ</p>
 
 <h1 style="text-decoration:underline;">Extras</h1>
+
 <p>ㅤ</p>
 <p>ㅤ</p>
+
 <p style="text-decoration:underline;">Quests</p>
+<p>ㅤ</p>
+<p>Quests Can Give You Rewards For Doing Stuff In The Minigames Map.</p>
+<p>NPCs and Villagers Usally Hold Quests</p>
+<p>They Might Require You To;</p>
+<p>Complete A Level</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>ㅤ</p>
 
 <p style="text-decoration:underline;">Currency</p>
 <p>ㅤ</p>
 <p>The Currency is Used To Buy Lots Of Things In Game, 
-The Currency Is Called 'Gamer Token' .
-You Can Use It To Buy Stuff Like;</p>
+The Currency Is Called 'Gamer Token' .</p>
+<p>You Can Use It To Buy Stuff Like;</p>
 <p>More Maps</p>
 <p>Kits</p>
 <p>Unlock More Kits</p>
