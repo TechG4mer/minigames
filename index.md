@@ -17,6 +17,8 @@ well... Unless You Use Something To Convert It Into A Java World.</p>
 
 <p style="text-decoration:underline;">Parkour</p>
 <p>ㅤ</p>
+<p>The Parkour Map Is The First Map To Be Started on, </p>
+<p>Also Techg4mer Is The Only Person To Ever Build The Parkour Map (Last Checked: 27/04/21)</p>
 <p>The Beggining Of The Map
 <img src="Minigames Parkour1.PNG" alt="Minigames">
 <img src="MiniGames Parkour2.PNG" alt="Minigames">
@@ -89,7 +91,20 @@ well... Unless You Use Something To Convert It Into A Java World.</p>
 <p>ㅤ</p>
 
 <p style="text-decoration:underline;">Unlocking Maps</p>
+
 <p>ㅤ</p>
+
+<p>You Can Unlock Maps Uy Many Methods like;</p>
+<p>Buying Maps</p>
+<p>Completing Quests</p>
+<p>Unlocking By Playing Maps</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+<p>ㅤ</p>
+
 <p style="text-decoration:underline;">Coming Soon!</p>
 
 <p>ㅤ</p>
